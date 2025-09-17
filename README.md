@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kourse of neural networks
 - 😄 Hope my knowledge of English and math will help me reach new horizons
 - ⚡ Now I'm weak newby, but someday i'll become Hokage
+- Here are some Colab notebooks that show my current progress. 
 <!--
 **Kulabus/Kulabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
