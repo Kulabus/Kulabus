@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-# Data Science & Machine Learning Portfolio
+# BI Developer & Data Engineer Portfolio
 
 **Падерин Константин**
 
-ML-инженер с опытом в NLP, Computer Vision, Recommendation Systems, специализирующийся на создании и внедрении моделей машинного обучения в production. Фокусируюсь на написании чистого, поддерживаемого кода и построении масштабируемых ML-пайплайнов.
+Разработчик BI и дата-инженер с опытом разработке ETL-процессов, проектировании DWH, моделировании данных, специализирующийся на создании и внедрении отчетов и дашбордов на основании требований бизнес-заказчика.
 
 ## Навыки и технологии
 *   **Языки программирования:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib)
 *   **MLOps & Deployment:** Docker
-*   **Cloud & Базы данных:** PostgreSQL
-*   **Инструменты:** Git
+*   **Cloud & Базы данных:** SQL Server, PostgreSQL
+*   **Инструменты:** Git, AirFlow
 
 ## Проекты
 
